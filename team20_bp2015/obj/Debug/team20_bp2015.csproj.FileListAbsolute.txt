@@ -1,0 +1,106 @@
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe.config
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.pdb
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.g.cs
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\App.g.cs
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.cache
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.lref
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.baml
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.g.resources
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.exe
+c:\users\max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Max\Documents\Visual Studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.g.cs
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.baml
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.g.cs
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.baml
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.g.cs
+C:\Users\Max\documents\visual studio 2015\Projects\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.baml
+D:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe.config
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.exe
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.pdb
+D:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe
+D:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.pdb
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.pdb
+D:\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.xml
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csprojResolveAssemblyReference.cache
+D:\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.g.cs
+D:\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.g.cs
+D:\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.g.cs
+D:\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.g.cs
+D:\team20_bp2015\team20_bp2015\obj\Debug\App.g.cs
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.cache
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.lref
+D:\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.baml
+D:\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.baml
+D:\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.baml
+D:\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.baml
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.g.resources
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.Properties.Resources.resources
+D:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csproj.GenerateResource.Cache
+F:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe.config
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.exe
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.pdb
+F:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe
+F:\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.pdb
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Face.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Fusion.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Tools.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+F:\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.pdb
+F:\team20_bp2015\team20_bp2015\bin\Debug\WriteableBitmapEx.Wpf.xml
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csprojResolveAssemblyReference.cache
+F:\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.g.cs
+F:\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.g.cs
+F:\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.g.cs
+F:\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.g.cs
+F:\team20_bp2015\team20_bp2015\obj\Debug\App.g.cs
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.cache
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015_MarkupCompile.lref
+F:\team20_bp2015\team20_bp2015\obj\Debug\InitializeWindow.baml
+F:\team20_bp2015\team20_bp2015\obj\Debug\MainWindow.baml
+F:\team20_bp2015\team20_bp2015\obj\Debug\SettingsWindow.baml
+F:\team20_bp2015\team20_bp2015\obj\Debug\StartWindow.baml
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.g.resources
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.Properties.Resources.resources
+F:\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\BP-AbgabeFuerAuftraggeber\team20_bp2015\team20_bp2015\bin\Debug\team20_bp2015.exe.config
+C:\Users\Max\Desktop\BP-AbgabeFuerAuftraggeber\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.exe
+C:\Users\Max\Desktop\BP-AbgabeFuerAuftraggeber\team20_bp2015\team20_bp2015\obj\Debug\team20_bp2015.pdb

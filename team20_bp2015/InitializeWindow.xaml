@@ -1,0 +1,16 @@
+﻿<Window x:Class="team20_bp2015.InitializeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:team20_bp2015"
+        mc:Ignorable="d"
+        Title="InitializeWindow" Height="1080" Width="1920">
+    <Grid>
+        <Canvas Name="canvas1" HorizontalAlignment="Left" Height="1049" VerticalAlignment="Top" Width="1912"/>
+        <Ellipse Name="ellipseOriginCorner" Fill="#FFFF0000" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" Margin="-40,972,0,-23"/>
+        <Ellipse Name="ellipseUpperCorner" Fill="#FFFF0000" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" Margin="1860,-34,-48,0"/>
+        <TextBlock x:Name="textBlock" FontSize="36" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Tap the upper right Corner / down left Corner with your left Hand as recognized User. If the red circles disappear, the Initializing is done." VerticalAlignment="Top" Height="190" Width="1375" Margin="230,30,0,0"/>
+
+    </Grid>
+</Window>
